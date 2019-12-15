@@ -1,0 +1,11 @@
+
+
+#wrap {
+    height: 100%;
+    width: 100%;
+}
+
+canvas {
+    display: block;
+    background: #0b222c;
+}
